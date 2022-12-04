@@ -1,6 +1,6 @@
 # SMART-SURVEILLANCE-SYSTEM
 The AI facial recognition system can be integrated with IP Camera, and can be used in various surveillance fields. Using immediate facial detection, the system can easily identify regular personnel, VIPs, and strangers, and upload recognition records to the management platform. Thus, the administrator will be able to effectively track access records.
-IP Camera-based facial recognition is widely used in public spaces and businesses. Using immediate facial detection, the system can easily identify regular personnel, VIPs, and strangers, and upload recognition records to the management platform.
+IP Camera-based facial recognition is widely used in public spaces and businesses. 
 High Accuracy of detection by using AI engine algorithms, and the system can easily grasp the real-time status, record stranger and VIP images.
 Save Time and Manpower - Through a screening mechanism can improve traditional systems need spend a lot of time and manpower on analyzing to find the target information.
 Enhance the Value of Data -You can find useful information from massive data and image, which can help you to clarify conditions at that time and make faster responses.
